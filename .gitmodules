@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bor"]
+	path = bor
+	url = https://github.com/davidnsousa/bor
+	shallow = true
+	registered = true
