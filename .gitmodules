@@ -5,6 +5,3 @@
 [submodule "bor"]
 	path = bor
 	url = https://github.com/davidnsousa/bor
-[submodule "qsort"]
-	path = qsort
-	url = https://github.com/cran/qsort
